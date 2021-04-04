@@ -7,8 +7,14 @@
 » ładniejsze i bardziej przejrzyste GUI </br>
 » niski ogień oraz inne usprawnienia </br>
 
-
 ### Najnowsza wersja: 21w02a (10.02.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf)
-</br>
 
+# MorroPack CS:GO addon
+
+## Dodatek zawiera
+» tekstury mieczy zamienione na noże </br>
+» kilka zmienionych dźwięków
+
+### Dodatek nie będzie aktualizowany
+### Podgląd dostępny [tutaj](https://imgur.com/a/KVUkKNP)
