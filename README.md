@@ -13,6 +13,8 @@
 
 # MorroPack CS:GO addon
 
+### Dodatek pobierzesz [tutaj](https://github.com/itzMorro/MorroPack/raw/download/%C2%A7bMorroPack%20%C2%A76CSGO%20addon.zip)
+
 ## Dodatek zawiera
 » tekstury mieczy zamienione na noże </br>
 » kilka zmienionych dźwięków
