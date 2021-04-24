@@ -1,5 +1,7 @@
 # MorroPack 1.8.x
 
+### [Pobierz MorroPack 21w04a](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w04a.zip)
+
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości </br>
 » poprawiony wygląd narzędzi i zbroi </br>
@@ -7,7 +9,7 @@
 » ładniejsze i bardziej przejrzyste GUI </br>
 » niski ogień oraz inne usprawnienia </br>
 
-### Najnowsza wersja: 21w02a (10.02.2021)
+### Najnowsza wersja: 21w04a (24.04.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf)
 </br>
 
