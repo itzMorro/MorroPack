@@ -10,7 +10,7 @@
 » niski ogień oraz inne usprawnienia </br>
 
 ### Najnowsza wersja: 21w04a (24.04.2021)
-### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br>
+### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br> </br>
 
 # MorroPack CS:GO addon
 
