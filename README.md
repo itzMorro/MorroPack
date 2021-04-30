@@ -25,4 +25,4 @@
 
 # MorroPack Godbridge Crosshair
 
-### [MorroPack Godbridge Crosshair](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76Godbridge%20Crosshair.zip)
+### [Pobierz MorroPack Godbridge Crosshair](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76Godbridge%20Crosshair.zip)
