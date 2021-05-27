@@ -8,7 +8,7 @@
 » przyjemniejsze, bardziej realistyczne dźwięki </br>
 » ładniejsze i bardziej przejrzyste GUI </br>
 » niski ogień oraz inne usprawnienia </br>
-» **NOWE** ładniejszy ekran wczytywania świata </br>
+**NOWE** » ładniejszy ekran wczytywania świata </br>
 
 ### Najnowsza wersja: 21w05a (27.05.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br> </br>
