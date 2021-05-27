@@ -26,3 +26,9 @@
 # MorroPack Godbridge Crosshair
 
 ### [Pobierz MorroPack Godbridge Crosshair](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76Godbridge%20Crosshair.zip)
+## Dodatek zawiera
+» celownik znacznie ułatwiający godbridgowanie </br>
+» inne tekstury paska zdrowia, głodu i doświadczenia
+
+### Dodatek nie będzie aktualizowany
+### Podgląd dostępny [tutaj]() </br> </br>
