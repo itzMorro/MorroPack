@@ -31,4 +31,4 @@
 » inne tekstury paska zdrowia, głodu i doświadczenia
 
 ### Dodatek nie będzie aktualizowany
-### Podgląd dostępny [tutaj]() </br> </br>
+### Podgląd dostępny [tutaj](https://imgur.com/a/bTfQPMO) </br> </br>
