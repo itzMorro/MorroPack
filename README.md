@@ -21,7 +21,7 @@
 » kilka zmienionych dźwięków
 
 ### Dodatek nie będzie aktualizowany
-### Podgląd dostępny [tutaj](https://imgur.com/a/KVUkKNP <taget=_blank>) </br> </br>
+### Podgląd dostępny [tutaj](https://imgur.com/a/KVUkKNP <target=_blank>) </br> </br>
 
 # MorroPack Godbridge Crosshair
 
