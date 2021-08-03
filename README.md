@@ -1,6 +1,6 @@
 # MorroPack 1.17.x
 
-### [Pobierz MorroPack 1.17 - Zmień Minecrafta o 360°](LINK)
+### [Pobierz MorroPack 1.17.x - Zmień Minecrafta o 360°](LINK)
 
 ## [Lista wszystkich dostępnych elytr](https://docs.google.com/document/d/1CN3s56Uyc_KRxdez98k7kT4PVRrOEkA5bsrukZni5ZI/edit) 
 
