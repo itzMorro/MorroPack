@@ -6,7 +6,7 @@ Zmień Minecrafta o 360° z MorroPack 1.17
 
 ## Credits:
 
----
+Woda - https://www.curseforge.com/minecraft/texture-packs/water-improved
 
 # MorroPack 1.8.x
 
