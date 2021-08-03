@@ -21,7 +21,7 @@ Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br
 Mrugające oczy kresu - https://www.curseforge.com/minecraft/texture-packs/blinking-ender-eyes </br>
 Niebo - https://www.curseforge.com/minecraft/texture-packs/dramatic-skys </br>
 GUI - https://www.curseforge.com/minecraft/texture-packs/gui-retextures </br>
-Przeźroczysta doda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
+Przeźroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
 
 # MorroPack 1.8.x
 
@@ -33,7 +33,7 @@ Przeźroczysta doda - https://www.curseforge.com/minecraft/texture-packs/water-i
 » przyjemniejsze, bardziej realistyczne dźwięki </br>
 » ładniejsze i bardziej przejrzyste GUI </br>
 » niski ogień oraz inne usprawnienia </br>
-**NOWE** » ładniejszy ekran wczytywania świata </br>
+» ładniejszy ekran wczytywania świata </br>
 
 ### Najnowsza wersja: 21w05a (27.05.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br> </br>
