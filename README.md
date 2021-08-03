@@ -4,7 +4,9 @@
 
 Zmień Minecrafta o 360° z MorroPack 1.17
 
+## Credits:
 
+---
 
 # MorroPack 1.8.x
 
