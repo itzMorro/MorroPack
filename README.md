@@ -24,8 +24,7 @@ GUI - https://www.curseforge.com/minecraft/texture-packs/gui-retextures </br>
 Przeźroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
 </br>
 </br>
-
-# wersja 1.8
+</br>
 
 # MorroPack 1.8.x
 
