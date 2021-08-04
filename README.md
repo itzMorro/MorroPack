@@ -18,7 +18,8 @@ Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br
 Niebo - https://www.curseforge.com/minecraft/texture-packs/dramatic-skys </br>
 GUI - https://www.curseforge.com/minecraft/texture-packs/gui-retextures </br>
 Przeźroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
-Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/
+Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/ </br>
+Perełka - https://www.youtube.com/channel/UCJ1eQTyfMktFhewPwjuEWyA
 </br>
 </br>
 </br>
