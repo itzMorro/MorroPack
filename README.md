@@ -10,20 +10,16 @@
 
 Liście - https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0 </br>
 Animacje - https://www.curseforge.com/minecraft/texture-packs/fresh-animations </br>
-Rudy - https://www.curseforge.com/minecraft/texture-packs/visible-ores </br>
 Zombie - https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16 </br>
-Enchantowane narzędzia - https://www.curseforge.com/minecraft/texture-packs/enchanted-tools </br>
-Enchantowane miecze - https://www.curseforge.com/minecraft/texture-packs/enchanted-swords </br>
-Wariacje mobów - https://www.curseforge.com/minecraft/texture-packs/creatures </br>
 Obraz z recepturami alchemicznymi - https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-cheatsheet </br>
 Okrągłe pnie - https://www.curseforge.com/minecraft/texture-packs/round-trees-mc-vanilla-1-8-1-13 </br>
-Eltyry - https://www.curseforge.com/minecraft/texture-packs/elytras </br>
 Uprawy 3D - https://www.curseforge.com/minecraft/texture-packs/crops-3d </br>
 Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br>
-Mrugające oczy kresu - https://www.curseforge.com/minecraft/texture-packs/blinking-ender-eyes </br>
 Niebo - https://www.curseforge.com/minecraft/texture-packs/dramatic-skys </br>
 GUI - https://www.curseforge.com/minecraft/texture-packs/gui-retextures </br>
 Przeźroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
+Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/
+</br>
 </br>
 </br>
 </br>
