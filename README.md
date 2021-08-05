@@ -18,7 +18,6 @@
 
 ### Niektóre tekstury wymagają [OptiFine](https://optifine.net/) do poprawnego działania
 </br>
-</br>
 
 ## Credits:
 
