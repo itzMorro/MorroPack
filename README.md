@@ -1,8 +1,6 @@
 # MorroPack 1.17.x
 
-[beta download](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bBETA%20MORROPACK.zip)
-
-### [Pobierz MorroPack 1.17.x - Zmień Minecrafta o 360°](LINK)
+### [Pobierz MorroPack 1.17.x - Zmień Minecrafta o 360°](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.17%20%C2%A7r21w08a.zip)
 
 ## Credits:
 
