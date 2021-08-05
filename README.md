@@ -16,7 +16,7 @@
 
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
 
-### Zalecane jest używanie OptiFine
+### Niektóre tekstury wymagają [OptiFine](https://optifine.net/) do poprawnego działania
 </br>
 </br>
 
