@@ -5,13 +5,14 @@
 ### Najnowsza wersja: 21w08a (05.08.2021)
 
 ## Paczka zawiera
-» tekstury wyższej rozdzielczości
+» tekstury wyższej rozdzielczości </br>
 » poprawiony wygląd narzędzi i zbroi </br>
-» nowe niebo
-» nowy wygląd zbroi
-» zaokrąglone pnie drzew
+» nowe niebo </br>
+» nowy wygląd zbroi </br>
+» zaokrąglone pnie drzew </br>
 » ładniejsze i bardziej przejrzyste GUI </br>
 » niski ogień oraz inne usprawnienia </br>
+» obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG) </br>
 
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
 
