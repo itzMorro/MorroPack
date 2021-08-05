@@ -12,11 +12,13 @@
 » zaokrąglone pnie drzew </br>
 » ładniejsze i bardziej przejrzyste GUI </br>
 » niski ogień oraz inne usprawnienia </br>
-» obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG) </br>
+» obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
 
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
 
 ### Zalecane jest używanie OptiFine
+</br>
+</br>
 
 ## Credits:
 
