@@ -2,6 +2,8 @@
 
 ### [Pobierz MorroPack 1.17.x - Zmień Minecrafta o 360°](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.17%20%C2%A7r21w08a.zip)
 
+### Zalecane jest używanie OptiFine
+
 ## Credits:
 
 Liście - https://www.curseforge.com/minecraft/texture-packs/better-leaves-add-on-2-0 </br>
