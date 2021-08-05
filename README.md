@@ -4,6 +4,8 @@
 
 ### Najnowsza wersja: 21w08a (05.08.2021)
 
+### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
+
 ### Zalecane jest używanie OptiFine
 
 ## Credits:
@@ -30,7 +32,7 @@ Perełka - https://www.youtube.com/channel/UCJ1eQTyfMktFhewPwjuEWyA
 ### [Pobierz MorroPack 21w05a](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w05a.zip)
 
 ## Paczka zawiera
-» tekstury wyższej rozdzielczości </br>
+» tekstury wyższej roz### Podgląd dostępny [tutaj](https://imgur.com/a/KVUkKNP) </br> </br>dzielczości </br>
 » poprawiony wygląd narzędzi i zbroi </br>
 » przyjemniejsze, bardziej realistyczne dźwięki </br>
 » ładniejsze i bardziej przejrzyste GUI </br>
