@@ -10,7 +10,7 @@
 » niski ogień oraz inne usprawnienia </br>
 » ładniejszy ekran wczytywania świata </br>
 
-#### Najnowsza wersja: 21w05a (27.05.2021)
+### Najnowsza wersja: 21w05a (27.05.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br> </br>
 
 # MorroPack CS:GO addon
@@ -37,7 +37,6 @@
 </br>
 </br>
 
-
 # MorroPack 1.17.x
 
 ### [Pobierz MorroPack 1.17 21w08b](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.17%20%C2%A7r21w08b.zip)
@@ -57,7 +56,6 @@
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
 
 ### Niektóre tekstury wymagają [OptiFine](https://optifine.net/) do poprawnego działania
-</br>
 
 ## Credits:
 
