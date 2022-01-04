@@ -33,7 +33,7 @@
 
 ### Dodatek nie będzie aktualizowany
 ### Podgląd dostępny [tutaj](https://imgur.com/a/bTfQPMO) 
-
+---
 </br>
 </br>
 </br>
