@@ -56,7 +56,7 @@
 » niski ogień oraz inne usprawnienia </br>
 » obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
 
-### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
+### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)<a href="https://imgur.com/a/3fGnIpv" target="_blank">tu</a>
 
 ### Niektóre tekstury wymagają [OptiFine](https://optifine.net/) do poprawnego działania
 </br>
