@@ -10,7 +10,7 @@
 » niski ogień oraz inne usprawnienia </br>
 » ładniejszy ekran wczytywania świata </br>
 
-### Najnowsza wersja: 21w05a (27.05.2021)
+#### Najnowsza wersja: 21w05a (27.05.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br> </br>
 
 # MorroPack CS:GO addon
