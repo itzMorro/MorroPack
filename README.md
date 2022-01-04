@@ -1,6 +1,6 @@
 # MorroPack 1.8.x
 
-### [Pobierz MorroPack 21w05a](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w05a.zip)
+### [Pobierz MorroPack 1.8.x 21w05a](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w05a.zip)
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości
@@ -40,7 +40,7 @@
 
 # MorroPack 1.17.x
 
-### [Pobierz MorroPack 1.17 - Zmień Minecrafta o 360°](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.17%20%C2%A7r21w08b.zip)
+### [Pobierz MorroPack 1.17 21w08b](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.17%20%C2%A7r21w08b.zip)
 
 ### Najnowsza wersja: 21w08b (05.08.2021)
 
