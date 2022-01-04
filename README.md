@@ -33,12 +33,10 @@
 
 ### Dodatek nie będzie aktualizowany
 ### Podgląd dostępny [tutaj](https://imgur.com/a/bTfQPMO) 
----
+
 </br>
 </br>
-</br>
-</br>
-</br>
+
 
 # MorroPack 1.17.x
 
@@ -56,7 +54,7 @@
 » niski ogień oraz inne usprawnienia </br>
 » obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
 
-### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)<a href="https://imgur.com/a/3fGnIpv" target="_blank">tu</a>[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
 
 ### Niektóre tekstury wymagają [OptiFine](https://optifine.net/) do poprawnego działania
 </br>
