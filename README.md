@@ -13,7 +13,7 @@
 ### Najnowsza wersja: 21w05a (27.05.2021)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf) </br> </br>
 
-# MorroPack CS:GO addon
+# MorroPack CS:GO addon (1.8)
 
 ### [Pobierz MorroPack CS:GO addon](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76CSGO%20addon.zip)
 
@@ -24,7 +24,7 @@
 ### Dodatek nie będzie aktualizowany
 ### Podgląd dostępny [tutaj](https://imgur.com/a/KVUkKNP) </br> </br>
 
-# MorroPack Godbridge Crosshair
+# MorroPack Godbridge Crosshair (1.8)
 
 ### [Pobierz MorroPack Godbridge Crosshair](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76Godbridge%20Crosshair.zip)
 ## Dodatek zawiera
