@@ -1,6 +1,6 @@
 # MorroPack 1.8
 
-### [Pobierz MorroPack 1.8(https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w05a.zip)
+### [Pobierz MorroPack 1.8](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w05a.zip)
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości
