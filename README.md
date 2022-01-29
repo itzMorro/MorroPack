@@ -1,8 +1,8 @@
-# MorroPack 1.17
+# MorroPack 1.18
 
-### [Pobierz MorroPack 1.17](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.17%20%C2%A7r21w08b.zip)
+### [Pobierz MorroPack 1.18](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.18%20%C2%A7r22w01a.zip)
 
-### Najnowsza wersja: 21w08b (05.08.2021)
+### Najnowsza wersja: 22w01a (29.01.2022)
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości</br>
