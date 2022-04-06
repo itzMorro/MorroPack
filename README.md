@@ -27,7 +27,7 @@ Niebo - https://www.curseforge.com/minecraft/texture-packs/dramatic-skys </br>
 Obraz z recepturami alchemicznymi - https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-cheatsheet </br>
 Okrągłe pnie - https://www.curseforge.com/minecraft/texture-packs/round-trees-mc-vanilla-1-8-1-13 </br>
 Uprawy 3D - https://www.curseforge.com/minecraft/texture-packs/crops-3d </br>
-Przeźroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
+Przezroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
 Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br>
 Zombie - https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16 </br>
 Perełka - https://www.youtube.com/channel/UCJ1eQTyfMktFhewPwjuEWyA </br>
