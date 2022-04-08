@@ -30,7 +30,6 @@ Okrągłe pnie - https://www.curseforge.com/minecraft/texture-packs/round-trees-
 Uprawy 3D - https://www.curseforge.com/minecraft/texture-packs/crops-3d </br>
 Przezroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
 Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br>
-Zombie - https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16 </br>
 Perełka - https://www.youtube.com/channel/UCJ1eQTyfMktFhewPwjuEWyA </br>
 Pozostałe tekstury - https://faithful.team/
 
@@ -49,7 +48,7 @@ Pozostałe tekstury - https://faithful.team/
 » niski ogień oraz inne usprawnienia</br>
 » ładniejszy ekran wczytywania świata</br>
 
-### Najnowsza wersja: 21w05a (27.05.2021)
+### Najnowsza wersja: 21w05a (2021/05/27)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf)</br></br>
 
 # MorroPack CS:GO addon (1.8)
