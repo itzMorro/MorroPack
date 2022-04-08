@@ -2,11 +2,12 @@
 
 ### [Pobierz MorroPack 1.18](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.18%20%C2%A7r22w01a.zip)
 
-### Najnowsza wersja: 22w01a (29.01.2022)
+### Najnowsza wersja: 22w04a (2022/04/08)
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości</br>
 » poprawiony wygląd narzędzi i zbroi</br>
+» nowe animacje mobów
 » nowe niebo</br>
 » nowy wygląd zbroi</br>
 » zaokrąglone pnie drzew</br>
@@ -31,7 +32,7 @@ Przezroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-im
 Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br>
 Zombie - https://www.curseforge.com/minecraft/texture-packs/tissous-zombie-pack-optifine-1-7x-1-16 </br>
 Perełka - https://www.youtube.com/channel/UCJ1eQTyfMktFhewPwjuEWyA </br>
-Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/
+Pozostałe tekstury - https://faithful.team/
 
 </br>
 </br>
