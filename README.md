@@ -1,6 +1,6 @@
 # MorroPack 1.18
 
-### [Pobierz MorroPack 1.18](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.18%20%C2%A7r22w04a.zip)
+### [Pobierz MorroPack 1.18](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.18%20%C2%A7r22w04b.zip)
 
 ### Najnowsza wersja: 22w04b (2022/04/12)
 
