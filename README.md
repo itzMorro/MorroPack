@@ -2,17 +2,17 @@
 
 ### [Pobierz MorroPack 1.18](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%201.18%20%C2%A7r22w04a.zip)
 
-### Najnowsza wersja: 22w04a (2022/04/08)
+### Najnowsza wersja: 22w04b (2022/04/12)
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości</br>
 » poprawiony wygląd narzędzi i zbroi</br>
-» nowe animacje mobów</br>
+» **nowe animacje mobów**</br>
 » nowe niebo</br>
 » nowy wygląd zbroi</br>
 » zaokrąglone pnie drzew</br>
 » ładniejsze i bardziej przejrzyste GUI</br>
-» niski ogień oraz inne usprawnienia</br>
+» niska tarcza, niski ogień, niewidzoczny totem i inne usprawnienia</br>
 » obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
 
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
