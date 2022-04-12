@@ -6,12 +6,12 @@
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości</br>
-» poprawiony wygląd narzędzi i broni</br>
 » **nowe animacje mobów**</br>
+» poprawiony wygląd narzędzi i broni</br>
 » **nowe modele zbroi**</br>
 » nowe niebo</br>
+» **nowe, przejrzyste GUI**</br>
 » zaokrąglone pnie drzew</br>
-» ładniejsze i bardziej przejrzyste GUI</br>
 » **niska tarcza, niski ogień, niewidzoczny totem i inne usprawnienia**</br>
 » obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
 
