@@ -10,7 +10,7 @@
 » poprawiony wygląd narzędzi i broni</br>
 » **nowe modele zbroi**</br>
 » nowe niebo</br>
-» **nowe, przejrzyste GUI**</br>
+» **nowe, przejrzystsze GUI**</br>
 » zaokrąglone pnie drzew</br>
 » **niska tarcza, niski ogień, niewidzoczny totem i inne usprawnienia**</br>
 » obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)</br>
@@ -43,12 +43,12 @@ Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/
 ### [Pobierz MorroPack 1.8](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A7721w05a.zip)
 
 ## Paczka zawiera
-» tekstury wyższej rozdzielczości
-» poprawiony wygląd narzędzi i zbroi</br>
-» przyjemniejsze, bardziej realistyczne dźwięki</br>
-» ładniejsze i bardziej przejrzyste GUI</br>
-» niski ogień oraz inne usprawnienia</br>
-» ładniejszy ekran wczytywania świata</br>
+» **tekstury wyższej rozdzielczości**</br>
+» poprawione tekstury narzędzi i zbroi</br>
+» **bardziej realistyczne dźwięki**</br>
+» nowy ekran wczytywania świata</br>
+» **nowe, przejrzystsze GUI**</br>
+» niski ogień i inne usprawnienia</br>
 
 ### Najnowsza wersja: 21w05a (2021/05/27)
 ### Podgląd dostępny [tutaj](https://imgur.com/a/QBtgNVf)</br></br>
@@ -58,18 +58,16 @@ Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/
 ### [Pobierz MorroPack CS:GO addon](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76CSGO%20addon.zip)
 
 ## Dodatek zawiera
-» tekstury mieczy zamienione na noże</br>
+» **tekstury mieczy zamienione na noże**</br>
 » kilka zmienionych dźwięków
 
-### Dodatek nie będzie aktualizowany
 ### Podgląd dostępny [tutaj](https://imgur.com/a/KVUkKNP)</br></br>
 
 # MorroPack Godbridge Crosshair (1.8)
 
 ### [Pobierz MorroPack Godbridge Crosshair](https://github.com/itzMorro/MorroPack/raw/master/%C2%A7bMorroPack%20%C2%A76Godbridge%20Crosshair.zip)
 ## Dodatek zawiera
-» celownik znacznie ułatwiający godbridgowanie</br>
-» inne tekstury pasków zdrowia, głodu i doświadczenia
+» **celownik znacznie ułatwiający godbridgowanie**</br>
+» nowe tekstury pasków zdrowia, głodu i doświadczenia
 
-### Dodatek nie będzie aktualizowany
 ### Podgląd dostępny [tutaj](https://imgur.com/a/bTfQPMO)
