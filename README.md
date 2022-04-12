@@ -13,7 +13,8 @@
 » **nowe, przejrzyste GUI**</br>
 » zaokrąglone pnie drzew</br>
 » **niska tarcza, niski ogień, niewidzoczny totem i inne usprawnienia**</br>
-» obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
+» obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)</br>
+» *UwUśne obserwery, memiczna luneta*
 
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
 
