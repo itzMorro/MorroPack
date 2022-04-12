@@ -6,13 +6,13 @@
 
 ## Paczka zawiera
 » tekstury wyższej rozdzielczości</br>
-» poprawiony wygląd narzędzi i zbroi</br>
+» poprawiony wygląd narzędzi i broni</br>
 » **nowe animacje mobów**</br>
+» **nowe modele zbroi**</br>
 » nowe niebo</br>
-» nowy wygląd zbroi</br>
 » zaokrąglone pnie drzew</br>
 » ładniejsze i bardziej przejrzyste GUI</br>
-» niska tarcza, niski ogień, niewidzoczny totem i inne usprawnienia</br>
+» **niska tarcza, niski ogień, niewidzoczny totem i inne usprawnienia**</br>
 » obraz z wszystkimi recepturami alchemicznymi [ZOBACZ](https://imgur.com/a/QFNKBRG)
 
 ### Podgląd dostępny [tutaj](https://imgur.com/a/3fGnIpv)
@@ -31,7 +31,8 @@ Uprawy 3D - https://www.curseforge.com/minecraft/texture-packs/crops-3d </br>
 Przezroczysta woda - https://www.curseforge.com/minecraft/texture-packs/water-improved </br>
 Zbroja - https://www.curseforge.com/minecraft/texture-packs/kals-arms-armor </br>
 Perełka - https://www.youtube.com/channel/UCJ1eQTyfMktFhewPwjuEWyA </br>
-Pozostałe tekstury - https://faithful.team/
+Niska tarcza - https://github.com/MastaNub/paczka </br>
+Pozostałe tekstury - https://faithful.team/ & https://vanillatweaks.net/
 
 </br>
 </br>
